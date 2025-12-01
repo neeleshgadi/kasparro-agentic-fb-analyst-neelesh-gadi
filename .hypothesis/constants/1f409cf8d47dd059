@@ -1,0 +1,4 @@
+# file: D:\project_8\kasparro-agentic-fb-analyst-neelesh-gadi\src\schemas\validation.py
+# hypothesis_version: 6.148.3
+
+[0.0, 1.0, '+00:00', 'Z', 'agent_name', 'confidence_score', 'data', 'error', 'error_details', 'error_message', 'error_type', 'failed_path', 'failure', 'field', 'max', 'min', 'missing_fields', 'original_error', 'required_fields', 'schema_name', 'schema_path', 'stack_trace', 'status', 'success', 'timestamp', 'type', 'unknown', 'validation_error', 'value']

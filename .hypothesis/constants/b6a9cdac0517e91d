@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pandas\core\util\numba_.py
+# hypothesis_version: 6.148.3
+
+['nogil', 'nopython', 'numba', 'parallel']

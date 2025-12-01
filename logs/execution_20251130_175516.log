@@ -1,0 +1,2 @@
+{"timestamp": "2025-11-30T17:55:16.370854Z", "level": "INFO", "logger": "insight_agent", "message": "Insight Agent completed successfully", "agent_name": "insight_agent", "execution_duration_ms": 2, "hypotheses_count": 3}
+{"timestamp": "2025-11-30T17:55:16.402877Z", "level": "INFO", "logger": "insight_agent", "message": "Insight Agent completed successfully", "agent_name": "insight_agent", "execution_duration_ms": 3, "hypotheses_count": 3}

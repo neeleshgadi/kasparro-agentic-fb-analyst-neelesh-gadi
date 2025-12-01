@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\ndimage\fourier.py
+# hypothesis_version: 6.148.3
+
+['_fourier', 'fourier', 'fourier_ellipsoid', 'fourier_gaussian', 'fourier_shift', 'fourier_uniform', 'ndimage']

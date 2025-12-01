@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\sparse\linalg\eigen.py
+# hypothesis_version: 6.148.3
+
+['ArpackError', 'ArpackNoConvergence', '_eigen', 'eigen', 'eigs', 'eigsh', 'lobpcg', 'sparse.linalg', 'svds', 'test']

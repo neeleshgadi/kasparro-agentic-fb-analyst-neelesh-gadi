@@ -1,0 +1,12 @@
+# Core dependencies
+pandas>=2.0.0
+PyYAML>=6.0
+jsonschema>=4.17.0
+
+# Testing dependencies
+pytest>=7.3.0
+hypothesis>=6.82.0
+
+# Additional utilities
+python-dateutil>=2.8.2
+scipy>=1.10.0

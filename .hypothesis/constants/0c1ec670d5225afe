@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pandas\core\interchange\from_dataframe.py
+# hypothesis_version: 6.148.3
+
+['D', 'UTC', '__dataframe__', '_col', 'categories', 'data', 'datetime64[ms]', 'datetime64[s]', 'is_dictionary', 'is_ordered', 'm', 'object', 'offsets', 'pandas.index', 'pyarrow', 's', 'td([Dm])', 'ts([smun]):(.*)', 'utf-8', 'validity']

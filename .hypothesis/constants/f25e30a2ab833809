@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pandas\core\window\ewm.py
+# hypothesis_version: 6.148.3
+
+[0.5, 1.0, 'Examples', 'Notes', 'Parameters', 'Returns', 'See Also', 'Series/Dataframe', 'adjust', 'aggregate', 'alpha', 'axis', 'columns', 'com', 'corr', 'cov', 'cython', 'ewm', 'halflife', 'ignore', 'ignore_na', 'index', 'mean', 'method', 'min_periods', 'name', 'ns', 'numba', 'single', 'span', 'std', 'sum', 'times', 'var']

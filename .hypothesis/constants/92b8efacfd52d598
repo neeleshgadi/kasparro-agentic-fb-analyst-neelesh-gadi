@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\attr\_config.py
+# hypothesis_version: 6.148.3
+
+["'run' must be bool.", 'get_run_validators', 'set_run_validators']

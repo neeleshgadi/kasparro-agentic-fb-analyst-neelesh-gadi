@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\numpy\core\overrides.py
+# hypothesis_version: 6.148.3
+
+['ArgSpec', 'like']

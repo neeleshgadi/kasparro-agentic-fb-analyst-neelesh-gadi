@@ -1,0 +1,2 @@
+{"timestamp": "2025-11-30T18:50:36.061410Z", "level": "INFO", "logger": "creative_generator", "message": "Creative Generator completed successfully", "agent_name": "creative_generator", "execution_duration_ms": 10, "recommendations_count": 1}
+{"timestamp": "2025-11-30T18:50:36.186991Z", "level": "INFO", "logger": "creative_generator", "message": "Creative Generator completed successfully", "agent_name": "creative_generator", "execution_duration_ms": 21, "recommendations_count": 1}

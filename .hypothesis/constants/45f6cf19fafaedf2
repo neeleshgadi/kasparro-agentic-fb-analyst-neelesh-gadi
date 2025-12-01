@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\lark\parsers\lalr_interactive_parser.py
+# hypothesis_version: 6.148.3
+
+['\t- %s -> %r', '$END', 'Parser choices:', 'stack size: %s']

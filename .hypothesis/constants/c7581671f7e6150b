@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pandas\core\internals\managers.py
+# hypothesis_version: 6.148.3
+
+[100, '0.14.1', 'all', 'astype', 'axes', 'blocks', 'convert', 'copy', 'diff', 'dtype', 'f', 'fancy', 'filter', 'i', 'linear', 'mM', 'mgr_locs', 'object', 'raise', 'setitem', 'slice', 'to_native_types', 'values']

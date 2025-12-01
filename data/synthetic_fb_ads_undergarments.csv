@@ -1,0 +1,99 @@
+campaign_name,adset_name,date,spend,impressions,clicks,ctr,purchases,revenue,roas,creative_type,creative_message,audience_type,platform,country
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-01,450.50,125000,1500,0.0120,45,1350.00,2.997,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-02,455.20,128000,1536,0.0120,48,1440.00,3.163,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-03,460.00,130000,1560,0.0120,47,1410.00,3.065,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-04,465.30,132000,1584,0.0120,50,1500.00,3.224,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-05,470.00,135000,1620,0.0120,52,1560.00,3.319,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-06,475.50,138000,1656,0.0120,54,1620.00,3.407,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-07,480.00,140000,1680,0.0120,55,1650.00,3.438,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-08,420.00,115000,1035,0.0090,31,930.00,2.214,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-09,425.00,118000,1062,0.0090,32,960.00,2.259,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-10,430.00,120000,1080,0.0090,33,990.00,2.302,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-11,435.00,122000,1098,0.0090,34,1020.00,2.345,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-12,440.00,125000,1125,0.0090,35,1050.00,2.386,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-13,445.00,128000,1152,0.0090,36,1080.00,2.427,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Female_18-30,Female_Fashion_Interest,2024-01-14,450.00,130000,1170,0.0090,37,1110.00,2.467,image,Comfort meets style - Shop now!,female_18_30_interest_fashion,Facebook,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-01,380.00,95000,1140,0.0120,38,1140.00,3.000,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-02,385.00,98000,1176,0.0120,40,1200.00,3.117,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-03,390.00,100000,1200,0.0120,42,1260.00,3.231,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-04,395.00,102000,1224,0.0120,43,1290.00,3.266,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-05,400.00,105000,1260,0.0120,45,1350.00,3.375,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-06,405.00,108000,1296,0.0120,47,1410.00,3.481,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-07,410.00,110000,1320,0.0120,48,1440.00,3.512,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-08,350.00,88000,704,0.0080,21,630.00,1.800,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-09,355.00,90000,720,0.0080,22,660.00,1.859,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-10,360.00,92000,736,0.0080,23,690.00,1.917,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-11,365.00,95000,760,0.0080,24,720.00,1.973,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-12,370.00,98000,784,0.0080,25,750.00,2.027,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-13,375.00,100000,800,0.0080,26,780.00,2.080,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Male_18-24,Male_Sports_Interest,2024-01-14,380.00,102000,816,0.0080,27,810.00,2.132,video,Athletic comfort for active lifestyles,male_18_24_interest_sports,Instagram,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-01,520.00,140000,1680,0.0120,56,1680.00,3.231,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-02,525.00,143000,1716,0.0120,58,1740.00,3.314,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-03,530.00,145000,1740,0.0120,59,1770.00,3.340,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-04,535.00,148000,1776,0.0120,60,1800.00,3.364,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-05,540.00,150000,1800,0.0120,62,1860.00,3.444,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-06,545.00,153000,1836,0.0120,64,1920.00,3.523,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-07,550.00,155000,1860,0.0120,65,1950.00,3.545,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-08,490.00,130000,1430,0.0110,48,1440.00,2.939,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-09,495.00,132000,1452,0.0110,49,1470.00,2.970,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-10,500.00,135000,1485,0.0110,50,1500.00,3.000,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-11,505.00,138000,1518,0.0110,51,1530.00,3.030,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-12,510.00,140000,1540,0.0110,52,1560.00,3.059,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-13,515.00,143000,1573,0.0110,53,1590.00,3.087,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Female_31-45,Female_Wellness_Interest,2024-01-14,520.00,145000,1595,0.0110,54,1620.00,3.115,carousel,Premium quality for everyday comfort,female_31_45_interest_wellness,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-01,420.00,110000,1320,0.0120,44,1320.00,3.143,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-02,425.00,112000,1344,0.0120,45,1350.00,3.176,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-03,430.00,115000,1380,0.0120,46,1380.00,3.209,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-04,435.00,118000,1416,0.0120,48,1440.00,3.310,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-05,440.00,120000,1440,0.0120,49,1470.00,3.341,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-06,445.00,122000,1464,0.0120,50,1500.00,3.371,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-07,450.00,125000,1500,0.0120,52,1560.00,3.467,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-08,390.00,105000,945,0.0090,32,960.00,2.462,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-09,395.00,108000,972,0.0090,33,990.00,2.506,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-10,400.00,110000,990,0.0090,34,1020.00,2.550,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-11,405.00,112000,1008,0.0090,35,1050.00,2.593,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-12,410.00,115000,1035,0.0090,36,1080.00,2.634,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-13,415.00,118000,1062,0.0090,37,1110.00,2.675,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Male_25-35,Male_Professional_Interest,2024-01-14,420.00,120000,1080,0.0090,38,1140.00,2.714,image,Professional comfort all day long,male_25_35_interest_professional,Facebook,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-01,600.00,180000,2160,0.0120,72,2160.00,3.600,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-02,605.00,183000,2196,0.0120,74,2220.00,3.669,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-03,610.00,185000,2220,0.0120,75,2250.00,3.689,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-04,615.00,188000,2256,0.0120,76,2280.00,3.707,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-05,620.00,190000,2280,0.0120,78,2340.00,3.774,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-06,625.00,193000,2316,0.0120,80,2400.00,3.840,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-07,630.00,195000,2340,0.0120,81,2430.00,3.857,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-08,560.00,170000,1870,0.0110,62,1860.00,3.321,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-09,565.00,172000,1892,0.0110,63,1890.00,3.345,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-10,570.00,175000,1925,0.0110,64,1920.00,3.368,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-11,575.00,178000,1958,0.0110,65,1950.00,3.391,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-12,580.00,180000,1980,0.0110,66,1980.00,3.414,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-13,585.00,183000,2013,0.0110,67,2010.00,3.436,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Unisex_All,Unisex_Broad_Interest,2024-01-14,590.00,185000,2035,0.0110,68,2040.00,3.458,video,Comfort for everyone - Shop the collection,unisex_all_ages_broad,Instagram,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-01,480.00,130000,1560,0.0120,52,1560.00,3.250,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-02,485.00,132000,1584,0.0120,53,1590.00,3.278,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-03,490.00,135000,1620,0.0120,54,1620.00,3.306,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-04,495.00,138000,1656,0.0120,56,1680.00,3.394,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-05,500.00,140000,1680,0.0120,57,1710.00,3.420,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-06,505.00,143000,1716,0.0120,58,1740.00,3.446,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-07,510.00,145000,1740,0.0120,60,1800.00,3.529,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-08,450.00,120000,1320,0.0110,48,1440.00,3.200,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-09,455.00,122000,1342,0.0110,49,1470.00,3.231,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-10,460.00,125000,1375,0.0110,50,1500.00,3.261,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-11,465.00,128000,1408,0.0110,51,1530.00,3.290,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-12,470.00,130000,1430,0.0110,52,1560.00,3.319,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-13,475.00,132000,1452,0.0110,53,1590.00,3.347,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Female_46-60,Female_Comfort_Interest,2024-01-14,480.00,135000,1485,0.0110,54,1620.00,3.375,image,Timeless comfort and support,female_46_60_interest_comfort,Facebook,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-01,390.00,100000,1200,0.0120,40,1200.00,3.077,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-02,395.00,102000,1224,0.0120,41,1230.00,3.114,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-03,400.00,105000,1260,0.0120,42,1260.00,3.150,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-04,405.00,108000,1296,0.0120,44,1320.00,3.259,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-05,410.00,110000,1320,0.0120,45,1350.00,3.293,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-06,415.00,112000,1344,0.0120,46,1380.00,3.325,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-07,420.00,115000,1380,0.0120,47,1410.00,3.357,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-08,360.00,95000,855,0.0090,29,870.00,2.417,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-09,365.00,98000,882,0.0090,30,900.00,2.466,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-10,370.00,100000,900,0.0090,31,930.00,2.514,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-11,375.00,102000,918,0.0090,32,960.00,2.560,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-12,380.00,105000,945,0.0090,33,990.00,2.605,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-13,385.00,108000,972,0.0090,34,1020.00,2.649,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US
+Undergarments_Male_36-50,Male_Lifestyle_Interest,2024-01-14,390.00,110000,990,0.0090,35,1050.00,2.692,carousel,Quality that lasts - Premium materials,male_36_50_interest_lifestyle,Instagram,US

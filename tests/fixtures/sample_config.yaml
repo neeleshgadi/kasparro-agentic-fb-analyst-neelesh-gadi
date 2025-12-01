@@ -1,0 +1,47 @@
+# Test Configuration File for Kasparro
+
+# Thresholds
+thresholds:
+  low_ctr: 0.01 # CTR below this triggers creative recommendations
+  high_confidence: 0.7 # Confidence score threshold for top insights
+  roas_change_significant: 0.15 # 15% change considered significant
+  trend_stable_threshold: 0.05 # +/- 5% considered stable
+
+# Agent Configuration
+agents:
+  max_hypotheses: 5 # Maximum hypotheses per Insight Agent run
+  min_data_points: 10 # Minimum data points for trend analysis
+  min_creatives_per_campaign: 3 # Minimum creative variations to generate
+
+# Retry Logic
+retry:
+  max_retries: 3
+  backoff_multiplier: 2 # Exponential backoff: 1s, 2s, 4s
+  base_delay: 1.0 # Base delay in seconds
+
+# Logging
+logging:
+  level: "INFO" # DEBUG, INFO, WARNING, ERROR
+  format: "json" # json or text
+  log_dir: "logs"
+
+# Reproducibility
+random_seed: 42
+
+# Data Quality
+data_quality:
+  max_missing_percentage: 0.1 # Fail if >10% missing values
+  date_format: "%Y-%m-%d"
+  required_fields:
+    - campaign_name
+    - date
+    - spend
+    - impressions
+    - clicks
+    - revenue
+
+# Confidence Scoring Weights
+confidence_weights:
+  insight_confidence: 0.4
+  validation_strength: 0.4
+  segmentation_evidence: 0.2

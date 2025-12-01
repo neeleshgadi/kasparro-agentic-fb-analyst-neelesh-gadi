@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\interpolate\fitpack.py
+# hypothesis_version: 6.148.3
+
+['BSpline', '_fitpack_py', 'bisplev', 'bisplrep', 'fitpack', 'insert', 'interpolate', 'spalde', 'splantider', 'splder', 'splev', 'splint', 'splprep', 'splrep', 'sproot']

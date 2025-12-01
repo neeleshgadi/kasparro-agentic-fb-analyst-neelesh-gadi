@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\sparse\csr.py
+# hypothesis_version: 6.148.3
+
+['_csr', 'csr', 'csr_count_blocks', 'csr_matrix', 'csr_tobsr', 'csr_tocsc', 'get_csr_submatrix', 'isspmatrix_csr', 'sparse', 'spmatrix', 'upcast']

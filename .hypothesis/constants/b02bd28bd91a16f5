@@ -1,0 +1,4 @@
+# file: D:\project_8\kasparro-agentic-fb-analyst-neelesh-gadi\src\agents\report_generator.py
+# hypothesis_version: 6.148.3
+
+[1000, '## Key Insights\n\n', '## Methodology\n\n', '**Interpretation:**\n', '---\n\n', 'Executive Summary', 'INFO', 'Key Insights', 'Methodology', 'N/A', 'Unknown', 'Z', '```\n', '```\n\n', 'agent_name', 'audience_type', 'campaign', 'comparison', 'confidence_score', 'creative_message', 'creative_type', 'creatives', 'current_ctr', 'data_summary', 'dataset_summary', 'date_range', 'default', 'error_type', 'evidence', 'format', 'hypothesis_text', 'insights', 'json', 'level', 'log_dir', 'logging', 'logs', 'metric_name', 'metrics', 'new_creatives', 'p_value', 'query', 'rationale', 'recommendations', 'report.md', 'report_generator', 'report_path', 'reports', 'sections_generated', 'timestamp', 'total_revenue', 'total_rows', 'total_spend', 'unknown', 'utf-8', 'validated_hypotheses', 'validation_reasoning', 'validation_status', 'value']

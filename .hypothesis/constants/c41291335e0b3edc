@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\sparse\base.py
+# hypothesis_version: 6.148.3
+
+['MAXPRINT', 'SparseFormatWarning', 'SparseWarning', '_base', 'asmatrix', 'base', 'check_reshape_kwargs', 'check_shape', 'get_sum_dtype', 'isdense', 'isscalarlike', 'issparse', 'isspmatrix', 'sparse', 'spmatrix', 'validateaxis']

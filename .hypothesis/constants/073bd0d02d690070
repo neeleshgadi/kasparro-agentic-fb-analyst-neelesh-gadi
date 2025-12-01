@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pandas\core\reshape\encoding.py
+# hypothesis_version: 6.148.3
+
+[0.0, '_', 'boolean', 'category', 'object', 'prefix', 'prefix_sep', 'string']

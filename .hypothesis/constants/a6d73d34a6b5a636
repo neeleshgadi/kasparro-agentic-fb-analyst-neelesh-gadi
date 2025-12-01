@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pandas\core\computation\check.py
+# hypothesis_version: 6.148.3
+
+['NUMEXPR_INSTALLED', 'NUMEXPR_VERSION', 'numexpr', 'warn']

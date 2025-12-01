@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\anyio\pytest_plugin.py
+# hypothesis_version: 6.148.3
+
+['anyio', 'anyio_backend', 'hypothesis', 'markers', 'pytestmark']

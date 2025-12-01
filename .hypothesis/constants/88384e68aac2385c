@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\sparse\_sputils.py
+# hypothesis_version: 6.148.3
+
+[', ', 'C', 'SparseArray', 'axis out of range', 'broadcast_shapes', 'bsr', 'coo', 'copy', 'csc', 'csr', 'dia', 'get_sum_dtype', 'getdata', 'getdtype', 'isdense', 'isintlike', 'ismatrix', 'isscalarlike', 'issequence', 'isshape', 'native', 'newshape', 'order', 'sp.spmatrix', 'sparse', 'u', 'upcast']

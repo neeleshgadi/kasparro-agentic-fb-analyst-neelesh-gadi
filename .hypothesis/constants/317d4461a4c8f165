@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\dateutil\_common.py
+# hypothesis_version: 6.148.3
+
+['%s(%+d)', 'FR', 'MO', 'SA', 'SU', 'TH', 'TU', 'WE', 'n', 'weekday']

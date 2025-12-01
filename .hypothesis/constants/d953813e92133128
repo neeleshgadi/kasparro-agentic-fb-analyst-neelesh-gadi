@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pandas\io\formats\csvs.py
+# hypothesis_version: 6.148.3
+
+[100000, '"', ',', 'date_format', 'decimal', 'float_format', 'infer', 'na_rep', 'nlevels', 'quoting', 'strict', 'w']

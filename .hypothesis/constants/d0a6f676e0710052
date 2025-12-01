@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\interpolate\interpnd.py
+# hypothesis_version: 6.148.3
+
+['LinearNDInterpolator', 'NDInterpolatorBase', '_interpnd', 'interpnd', 'interpolate']

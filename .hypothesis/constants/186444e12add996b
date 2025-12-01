@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pandas\core\arrays\string_.py
+# hypothesis_version: 6.148.3
+
+['0', 'Int64', 'K', 'bool', 'extension', 'future.infer_string', 'left', 'max', 'min', 'mode.string_storage', 'object', 'pyarrow', 'pyarrow_numpy', 'python', 'right', 'storage', 'string', 'string[pyarrow]', 'string[python]', 'uint8']

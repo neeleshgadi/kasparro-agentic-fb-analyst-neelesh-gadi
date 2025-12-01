@@ -1,0 +1,103 @@
+{
+  "validated_hypotheses": [
+    {
+      "hypothesis_id": "3b97b1d1-80ee-44a1-894f-1e3018586738",
+      "hypothesis_text": "CTR decline (WoW: -17.5%, MoM: 0.0%) negatively impacted ROAS",
+      "validation_status": "inconclusive",
+      "evidence": {
+        "metrics": [
+          {
+            "metric_name": "worst_creative_ctr",
+            "value": 0.010889735288516472,
+            "comparison": "Worst performing creative type: image"
+          },
+          {
+            "metric_name": "best_creative_ctr",
+            "value": 0.011100951831554658,
+            "comparison": "Best performing creative type: carousel"
+          }
+        ],
+        "statistical_significance": {
+          "p_value": 0.6054819293596503,
+          "confidence_interval": [
+            -0.00045187870271519144,
+            0.0007852120360485262
+          ]
+        }
+      },
+      "adjusted_confidence_score": 0.5747728632827378,
+      "validation_reasoning": "Hypothesis validation: inconclusive. Analyzed 2 metrics. Worst performing creative type: image. Best performing creative type: carousel. Statistical test p-value: 0.6055. Result is not statistically significant. Adjusted confidence score: 0.57. Moderate confidence in this hypothesis."
+    },
+    {
+      "hypothesis_id": "d15f145c-1f23-4ac3-9d2f-a5e278fb36c0",
+      "hypothesis_text": "ROAS declined due to trend (WoW: -17.2%, MoM: 0.0%)",
+      "validation_status": "inconclusive",
+      "evidence": {
+        "metrics": [
+          {
+            "metric_name": "roas_wow_change",
+            "value": -17.21385698070375,
+            "comparison": "ROAS week-over-week change: -17.2%"
+          },
+          {
+            "metric_name": "roas_mom_change",
+            "value": 0.0,
+            "comparison": "ROAS month-over-month change: 0.0%"
+          },
+          {
+            "metric_name": "ctr_wow_change",
+            "value": -17.477286328273767,
+            "comparison": "CTR week-over-week change: -17.5%"
+          }
+        ]
+      },
+      "adjusted_confidence_score": 0.5721385698070376,
+      "validation_reasoning": "Hypothesis validation: inconclusive. Analyzed 3 metrics. ROAS week-over-week change: -17.2%. ROAS month-over-month change: 0.0%. Adjusted confidence score: 0.57. Moderate confidence in this hypothesis."
+    },
+    {
+      "hypothesis_id": "efa68e5b-4ea7-4447-a706-20a5cd77821f",
+      "hypothesis_text": "Market competition changes may be affecting ROAS",
+      "validation_status": "confirmed",
+      "evidence": {
+        "metrics": [
+          {
+            "metric_name": "worst_campaign_roas",
+            "value": 2.656015037593985,
+            "comparison": "Worst performing campaign: Undergarments_Male_18-24"
+          },
+          {
+            "metric_name": "best_campaign_roas",
+            "value": 3.569027611044418,
+            "comparison": "Best performing campaign: Undergarments_Unisex_All"
+          },
+          {
+            "metric_name": "worst_campaign_spend",
+            "value": 5320.0,
+            "comparison": "Spend on worst campaign: $5320.00"
+          }
+        ]
+      },
+      "adjusted_confidence_score": 0.52,
+      "validation_reasoning": "Hypothesis validation: confirmed. Analyzed 3 metrics. Worst performing campaign: Undergarments_Male_18-24. Best performing campaign: Undergarments_Unisex_All. Adjusted confidence score: 0.52. Moderate confidence in this hypothesis."
+    }
+  ],
+  "top_insights": [
+    {
+      "hypothesis": "CTR decline (WoW: -17.5%, MoM: 0.0%) negatively impacted ROAS",
+      "validated_confidence": 0.5747728632827378
+    },
+    {
+      "hypothesis": "ROAS declined due to trend (WoW: -17.2%, MoM: 0.0%)",
+      "validated_confidence": 0.5721385698070376
+    },
+    {
+      "hypothesis": "Market competition changes may be affecting ROAS",
+      "validated_confidence": 0.52
+    }
+  ],
+  "metadata": {
+    "query": "Analyze ROAS changes for the last 14 days and generate creative recommendations",
+    "timestamp": "2025-12-01T08:38:17.880119Z",
+    "dataset": "data/synthetic_fb_ads_undergarments.csv"
+  }
+}

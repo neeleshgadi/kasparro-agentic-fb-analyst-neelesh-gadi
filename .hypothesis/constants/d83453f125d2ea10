@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pandas\io\xml.py
+# hypothesis_version: 6.148.3
+
+['*', './*', '<', '<?xml', '[1]/*', 'end', 'etree', 'getprevious', 'ignore', 'infer', 'lxml', 'lxml.etree', 'path_or_buffer', 'r', 'read', 'start', 'storage_options', 'utf-8', '}']

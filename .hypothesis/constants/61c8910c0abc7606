@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\sparse\linalg\isolve.py
+# hypothesis_version: 6.148.3
+
+['_isolve', 'bicg', 'bicgstab', 'cg', 'cgs', 'gcrotmk', 'gmres', 'isolve', 'lgmres', 'lsmr', 'lsqr', 'minres', 'qmr', 'sparse.linalg', 'test', 'tfqmr']

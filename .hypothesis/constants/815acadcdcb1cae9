@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\_lib\_elementwise_iterative_method.py
+# hypothesis_version: 6.148.3
+
+[1.0, 'Must provide xp.', '_order_keys', 'args', 'integral', 'nfev', 'nit', 'real floating', 'status', 'success']

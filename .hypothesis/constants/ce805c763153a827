@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pandas\arrays\__init__.py
+# hypothesis_version: 6.148.3
+
+['ArrowExtensionArray', 'ArrowStringArray', 'BooleanArray', 'Categorical', 'DatetimeArray', 'FloatingArray', 'IntegerArray', 'IntervalArray', 'NumpyExtensionArray', 'PandasArray', 'PeriodArray', 'SparseArray', 'StringArray', 'TimedeltaArray']

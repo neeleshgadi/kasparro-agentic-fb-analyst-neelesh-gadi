@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\optimize\zeros.py
+# hypothesis_version: 6.148.3
+
+['RootResults', '_zeros_py', 'bisect', 'brenth', 'brentq', 'newton', 'optimize', 'ridder', 'toms748', 'zeros']

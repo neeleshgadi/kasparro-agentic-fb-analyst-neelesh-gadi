@@ -1,0 +1,4 @@
+# file: D:\project_8\kasparro-agentic-fb-analyst-neelesh-gadi\src\utils\logger.py
+# hypothesis_version: 6.148.3
+
+['%Y%m%d_%H%M%S', '%Y-%m-%dT%H:%M:%S', 'INFO', 'Z', '_', 'agent_completion', 'agent_error', 'agent_name', 'agent_start', 'agent_state', 'args', 'created', 'error_type', 'event_type', 'exc_info', 'exc_text', 'exception', 'filename', 'format', 'funcName', 'input_parameters', 'json', 'kasparro', 'level', 'levelname', 'levelno', 'lineno', 'log_dir', 'logger', 'logging', 'logs', 'message', 'module', 'msecs', 'msg', 'name', 'output_summary', 'pathname', 'process', 'processName', 'relativeCreated', 'stack_info', 'thread', 'threadName', 'timestamp']

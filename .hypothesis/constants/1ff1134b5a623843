@@ -1,0 +1,4 @@
+# file: D:\project_8\kasparro-agentic-fb-analyst-neelesh-gadi\src\utils\config_loader.py
+# hypothesis_version: 6.148.3
+
+[0.01, 0.05, 0.1, 0.15, 0.2, 0.4, 0.7, 0.99, 1.0, 1.01, '%Y-%m-%d', '.', 'INFO', 'agents', 'backoff_multiplier', 'base_delay', 'campaign_name', 'clicks', 'confidence_weights', 'config/config.yaml', 'data_quality', 'date', 'date_format', 'format', 'high_confidence', 'impressions', 'insight_confidence', 'json', 'level', 'log_dir', 'logging', 'logs', 'low_ctr', 'max_hypotheses', 'max_retries', 'min_data_points', 'r', 'random_seed', 'required_fields', 'retry', 'revenue', 'spend', 'thresholds', 'validation_strength']

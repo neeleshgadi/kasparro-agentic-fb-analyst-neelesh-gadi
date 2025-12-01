@@ -1,0 +1,4 @@
+# file: D:\project_8\kasparro-agentic-fb-analyst-neelesh-gadi\src\agents\__init__.py
+# hypothesis_version: 6.148.3
+
+[1.0, 'INFO', 'Z', 'agent_name', 'agent_orchestration', 'attempt', 'backoff_multiplier', 'base_delay', 'creative_generator', 'data_agent', 'delay_seconds', 'error_message', 'error_type', 'evaluator_agent', 'final_error', 'format', 'insight_agent', 'json', 'level', 'log_dir', 'logging', 'logs', 'max_attempts', 'max_retries', 'next_attempt', 'planner', 'report_generator', 'retry', 'retry_count', 'timestamp', 'total_attempts']

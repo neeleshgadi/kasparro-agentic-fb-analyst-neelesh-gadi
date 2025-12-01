@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\pytest_asyncio\plugin.py
+# hypothesis_version: 6.148.3
+
+[', ', '--asyncio-mode', '127.0.0.1', 'AsyncFixtureParams', 'MODE', 'Yield only once.', '_P', '_R', '__func__', '_loop_scope', 'asyncio', 'asyncio: ', 'asyncio_mode', 'auto', 'callspec', 'class', 'func', 'function', 'hypothesis', 'ignore', 'inner_test', 'is_hypothesis_test', 'loop_scope', 'markers', 'module', 'obj', 'package', 'scope', 'session', 'strict', 'string']

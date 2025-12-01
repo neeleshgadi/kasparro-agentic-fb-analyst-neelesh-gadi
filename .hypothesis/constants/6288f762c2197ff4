@@ -1,0 +1,4 @@
+# file: C:\Users\neele\AppData\Roaming\Python\Python310\site-packages\scipy\integrate\quadpack.py
+# hypothesis_version: 6.148.3
+
+['IntegrationWarning', '_quadpack_py', 'dblquad', 'integrate', 'nquad', 'quad', 'quadpack', 'tplquad']
