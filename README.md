@@ -1,30 +1,40 @@
 # Kasparro - Autonomous Facebook Ads Performance Analyst
 
-Kasparro is a multi-agent system that analyzes Facebook Ads performance data, identifies root causes of ROAS changes, validates hypotheses through data-driven analysis, and generates creative recommendations for underperforming campaigns.
+**Author:** Neelesh Gadi  
+**Project:** Multi-Agent System for Facebook Ads Analysis
 
-## Features
+Kasparro is an intelligent multi-agent system that analyzes Facebook Ads performance data, identifies root causes of ROAS changes, validates hypotheses through data-driven analysis, and generates creative recommendations for underperforming campaigns.
+
+## 🎯 Project Overview
+
+This system uses LangGraph to orchestrate multiple specialized AI agents that work together to provide comprehensive advertising performance analysis. Built with property-based testing and type-safe schemas, it delivers reliable, actionable insights for marketing teams.
+
+## ✨ Key Features
 
 - 🔍 **Automated ROAS Analysis**: Identifies root causes of performance changes
 - 📊 **Data-Driven Insights**: Generates and validates hypotheses using statistical analysis
 - 🎨 **Creative Recommendations**: Suggests new ad creatives for low-CTR campaigns
 - 📈 **Trend Detection**: Calculates week-over-week and month-over-month changes
 - 📝 **Executive Reports**: Produces stakeholder-friendly Markdown reports
-- ✅ **Property-Based Testing**: Comprehensive test coverage with 56 correctness properties
+- ✅ **Property-Based Testing**: Comprehensive test coverage with 56+ correctness properties
+- 🤖 **Multi-Agent Architecture**: 6 specialized agents working in orchestrated workflow
+- 🔄 **Reproducible Results**: Configurable random seed for consistent analysis
 
-## Quick Start
+## 🚀 Quick Start
 
 ### Prerequisites
 
-- Python 3.9 or higher
+- Python 3.10 or higher
 - pip package manager
+- OpenAI API key (or compatible LLM API)
 
 ### Installation
 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd kasparro
+git clone https://github.com/neeleshgadi/kasparro-agentic-fb-analyst-neelesh-gadi.git
+cd kasparro-agentic-fb-analyst-neelesh-gadi
 ```
 
 2. Create and activate a virtual environment:
@@ -43,6 +53,16 @@ source .venv/bin/activate
 
 ```bash
 pip install -r requirements.txt
+```
+
+4. Set up your API key:
+
+```bash
+# On Windows
+set OPENAI_API_KEY=your_api_key_here
+
+# On macOS/Linux
+export OPENAI_API_KEY=your_api_key_here
 ```
 
 ### Basic Usage
@@ -757,21 +777,61 @@ Contributions are welcome! Please follow these guidelines:
 - Keep functions focused and under 50 lines
 - Add property-based tests for new correctness guarantees
 
-## License
+## 📊 Dataset Information
 
-[Add your license here]
+The system analyzes Facebook Ads data with the following structure:
 
-## Acknowledgments
+- **4,500+ campaign records** across 3 months (Jan-Mar 2025)
+- **343 unique campaigns** across multiple audience segments
+- **Metrics tracked:** spend, impressions, clicks, CTR, purchases, revenue, ROAS
+- **Segmentation:** by campaign, creative type, audience type, and platform
+
+## 🧪 Testing
+
+Comprehensive test suite with 56+ property-based tests:
+
+```bash
+# Run all tests
+pytest tests/
+
+# Run with coverage
+pytest --cov=src tests/
+
+# Run specific test category
+pytest tests/test_properties_data_agent.py
+```
+
+## 📈 Performance Metrics
+
+- **End-to-end analysis:** 5-10 seconds
+- **Dataset processing:** 4,500 rows in <1 second
+- **Hypothesis validation:** Statistical significance testing
+- **Creative recommendations:** 3+ variations per underperforming campaign
+
+## 🛠️ Technology Stack
+
+- **Python 3.10+**
+- **LangGraph** - Agent orchestration
+- **Pydantic** - Type-safe schemas
+- **Pandas** - Data processing
+- **Hypothesis** - Property-based testing
+- **pytest** - Test framework
+
+## 📝 License
+
+MIT License - see [LICENSE](LICENSE) file for details
+
+## 👤 Author
+
+**Neelesh Gadi**
+
+## 🙏 Acknowledgments
 
 - Built with [Hypothesis](https://hypothesis.readthedocs.io/) for property-based testing
 - Uses [pandas](https://pandas.pydata.org/) for data processing
-- Inspired by multi-agent system architectures
-
-## Contact
-
-[Add contact information]
+- Powered by [LangGraph](https://github.com/langchain-ai/langgraph) for agent orchestration
 
 ---
 
 **Kasparro** - Autonomous Facebook Ads Performance Analyst  
-Version 1.0 | Built with ❤️ for data-driven marketing
+Version 1.0 | Built for data-driven marketing optimization
